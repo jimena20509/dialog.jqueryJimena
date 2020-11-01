@@ -11,6 +11,7 @@ $(function(){
 
     });
 
+
     $('.btnEliminar').on('click', function(){
        $('#dialogEliminar').dialog('open') ;
     })
